@@ -5,7 +5,7 @@ var user = {korisnickoIme: "", sifra: "", uloga: ""}
 // ako kontas? :D
 // i onda treba napisati funkcije za proveru da li je ulogovan korisnik neki koje cemo koristiti u htmlovima
 // na slican nacin kao sto su na vezbama radili
-
+//PROBA COMMITA
 
 window.addEventListener("load", function () {
 	
