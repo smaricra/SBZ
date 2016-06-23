@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: lupur
+Class-Path: lib/spring-core-3.2.2.RELEASE.jar lib/commons-logging-1.1.
+ 1.jar lib/spring-web-3.2.2.RELEASE.jar lib/aopalliance-1.0.jar lib/sp
+ ring-aop-3.2.2.RELEASE.jar lib/spring-beans-3.2.2.RELEASE.jar lib/spr
+ ing-context-3.2.2.RELEASE.jar lib/spring-webmvc-3.2.2.RELEASE.jar lib
+ /spring-expression-3.2.2.RELEASE.jar lib/spring-orm-3.2.2.RELEASE.jar
+  lib/spring-jdbc-3.2.2.RELEASE.jar lib/spring-tx-3.2.2.RELEASE.jar li
+ b/spring-data-mongodb-1.2.0.RELEASE.jar lib/spring-data-commons-1.5.0
+ .RELEASE.jar lib/mongo-java-driver-2.10.1.jar lib/jackson-core-2.2.0.
+ jar lib/jackson-databind-2.2.0.jar lib/jackson-annotations-2.2.0.jar 
+ lib/jackson-module-jaxb-annotations-2.2.0.jar lib/slf4j-api-1.7.5.jar
+  lib/logback-classic-1.0.12.jar lib/logback-core-1.0.12.jar lib/log4j
+ -over-slf4j-1.7.5.jar lib/jcl-over-slf4j-1.7.5.jar lib/jul-to-slf4j-1
+ .7.5.jar lib/log4jdbc-remix-0.2.7.jar lib/javax.ws.rs-api-2.0.jar
+Build-Jdk: 1.8.0_73
+Created-By: Maven Integration for Eclipse
+
